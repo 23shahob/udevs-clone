@@ -14,7 +14,7 @@ import Illustrator from "../assets/images/illustrator.svg";
 
 const UXdesign = () => {
   return (
-    <div>
+    <div id="service3">
       <div className="mx-auto max-w-6xl px-4 py-20">
         <h1 className="mb-10 text-[64px] font-extrabold leading-[64px] text-[#1b5bf7]">
           UI / UX design

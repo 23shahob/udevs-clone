@@ -6,7 +6,7 @@ import Iman from "../components/Iman";
 
 const Portfolio = () => {
   return (
-    <div>
+    <div id="portfolio">
       <Delever />
       <Smsuz />
       <Goodzone />

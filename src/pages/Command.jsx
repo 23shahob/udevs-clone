@@ -4,7 +4,7 @@ import Counter from "../components/Counter";
 
 const Command = () => {
   return (
-    <div className="bg-[#F4F7FF]">
+    <div id="command" className="bg-[#F4F7FF]">
       <div className="mx-auto px-4 max-w-6xl py-20">
         <div className="flex w-full items-center justify-between">
           <div className="w-[45%]">

@@ -9,7 +9,7 @@ import Bg3 from "../assets/images/ITconsulting.svg";
 
 const ITconsulting = () => {
   return (
-    <div className="mx-auto max-w-6xl px-4 py-20">
+    <div id="service5" className="mx-auto max-w-6xl px-4 py-20">
       <h1 className="mb-10 text-[64px] font-extrabold leading-[64px] text-[#1b5bf7]">
         IT consulting
       </h1>

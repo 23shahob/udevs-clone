@@ -11,8 +11,8 @@ import MobileDesign from "../assets/images/mobile.svg";
 
 const Smsuz = () => {
   return (
-    <div className="py-20">
-      <div className="mx-auto flex max-w-6xl items-center gap-8">
+    <div id="portfolio2" className="py-20">
+      <div className="mx-auto flex max-w-6xl items-center gap-8 px-4">
         <div className="w-[50%]">
           <img className="mb-8" src={SmsText} alt="SMS Text" />
           <span className="mb-8 flex w-[142px] items-center gap-2 rounded-full bg-[#DAE3FA] px-4 py-1">

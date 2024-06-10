@@ -10,7 +10,7 @@ import WareHouse from "../assets/images/warehouse.svg";
 
 const ErpSystems = () => {
   return (
-    <div className="bg-[#F4F7FF]">
+    <div id="service2" className="bg-[#F4F7FF]">
       <div className="mx-auto max-w-6xl px-4 py-20">
         <h1 className="mb-10 text-[64px] font-extrabold leading-[64px] text-[#1b5bf7]">
           ERP systems

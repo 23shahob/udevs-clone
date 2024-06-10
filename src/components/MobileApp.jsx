@@ -10,7 +10,7 @@ import Bg from "../assets/images/background.png";
 
 const MobileApp = () => {
   return (
-    <div className="mx-auto px-4 max-w-6xl py-20">
+    <div id="service1" className="mx-auto px-4 max-w-6xl py-20">
       <h1 className="mb-10 text-[64px] font-extrabold leading-[64px] text-[#1b5bf7]">
         Development of mobile <br /> applications
       </h1>

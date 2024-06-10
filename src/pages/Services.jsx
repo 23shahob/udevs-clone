@@ -7,7 +7,7 @@ import ITconsulting from "../components/ITconsulting";
 
 const Services = () => {
   return (
-    <div>
+    <div id="services">
       <MobileApp />
       <ErpSystems />
       <UXdesign />

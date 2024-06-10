@@ -3,8 +3,10 @@ import Hero from "../components/Hero";
 import Direction from "./Direction";
 import Command from "./Command";
 import Services from "./Services";
-import Tools from "./Tools";
 import Portfolio from "./Portfolio";
+import HowWeWork from "../components/HowWeWork";
+import Contact from "../components/Contact";
+import Clients from "./Clients";
 
 const Home = () => {
   return (
@@ -13,8 +15,10 @@ const Home = () => {
       <Direction />
       <Command />
       <Services />
-      <Tools />
+      <Clients />
       <Portfolio />
+      <HowWeWork />
+      <Contact />
     </div>
   );
 };

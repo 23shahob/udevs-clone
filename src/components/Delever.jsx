@@ -11,8 +11,8 @@ import MobileDesign from "../assets/images/mobile.svg";
 
 const Delever = () => {
   return (
-    <div className="py-20">
-      <div className="mx-auto flex max-w-6xl items-center gap-8">
+    <div id="portfolio1" className="py-20">
+      <div className="mx-auto flex max-w-6xl items-center gap-8 px-4">
         <div className="w-[50%]">
           <img src={DeleverApp} alt="DeleverApp Img" />
         </div>

@@ -8,7 +8,7 @@ import Consult from "../assets/images/consult.svg";
 
 const Direction = () => {
   return (
-    <div className="mx-auto px-4 max-w-6xl py-[100px]">
+    <div id="direction" className="mx-auto px-4 max-w-6xl py-[100px]">
       <h1 className="mb-10 text-[64px] font-extrabold leading-[64px] text-[#1b5bf7]">
         Our services
       </h1>
